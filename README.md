@@ -10,11 +10,10 @@ This repository captures **production-facing failure patterns** that often emerg
 **Author — Aditi Khare**  
 Writing on AI research, product thinking, and system architecture  
 
-🔗 **Website:** [aditikhare.com](https://aditikhare.com)  
-🧠 **Related Work:**  
-- [AI Research Agent](https://github.com/aditikhare007/ai-research-agent) — research → system understanding  
-- [AI System Design Atlas](https://github.com/aditikhare007/ai-system-design-atlas) — architecture patterns & trade-offs  
-- [AI Evaluation & Trust Lens](https://github.com/aditikhare007/ai-evaluation-trust-lens) — evaluation & reliability  
+🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
+🔗 **GitHub Repository:** [AI Failure Modes Gallery](https://github.com/aditikhare007/ai-failure-modes-gallery)  
+🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-failure-modes-gallery)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
 
 ⭐ If this repository helps you think more clearly about AI system failures, consider starring it.
 
@@ -115,3 +114,6 @@ They emerge from interactions between models, systems, people, and context.
 This gallery exists to make those interactions visible—before failures occur.
 
 ⭐ If this repository helps you think more clearly about AI system failures, consider starring it.
+
+© 2026 Aditi Khare. All rights reserved.
+
