@@ -1,4 +1,4 @@
-# 🧩 AI Failure Modes Gallery
+# 🧩 AI Failure Modes 
 > Understanding how AI systems fail in real-world conditions
 
 A curated gallery of **common AI system failure modes**, focused on **why failures occur at the system level**, not on model mistakes or implementation bugs.
