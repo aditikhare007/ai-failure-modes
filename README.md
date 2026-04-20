@@ -13,7 +13,7 @@ Writing on AI research, product thinking, and system architecture
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
 🔗 **GitHub Repository:** [AI Failure Modes Gallery](https://github.com/aditikhare007/ai-failure-modes-gallery)  
 🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-failure-modes-gallery)  
-💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
 
 ⭐ If this repository helps you think more clearly about AI system failures, consider starring it.
 
